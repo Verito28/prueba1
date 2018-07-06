@@ -1,3 +1,3 @@
 #### PRUEBA 1
 
-LINK(https://empieza.desafiolatam.com "Desafío Latam").
+LINK(https://Verito28.github.io/prueba1").
